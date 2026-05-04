@@ -1,0 +1,47 @@
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Virtual environment
+
+venv/
+env/
+.venv/
+
+# VS Code settings
+
+.vscode/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Environment variables
+
+.env
+
+# Mac junk
+
+.DS_Store
+
+# Logs
+
+*.log
+
+# Model files (DL projects)
+
+*.h5
+*.keras
+saved_model/
+
+# Data files (optional, if large)
+
+data/
+datasets/
+
+# Build / temp
+
+build/
+dist/
+*.egg-info/
